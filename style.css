@@ -478,7 +478,7 @@ textarea:focus {
 }
 
 .form-img img {
-    max-height: 500px;
+    max-height: 600px;
     max-width: 700px;
     opacity: 0.9;
     padding: 1rem;
@@ -658,6 +658,11 @@ footer .logo img {
         display: block;
     }
 
+
+    .form-img img {
+        max-height: 250px;
+    }
+    
     .v-line {
         display: none;
     }
