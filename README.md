@@ -1,4 +1,4 @@
-*Responsive website
+**Responsive website**
 
 Live view: https://dimensionate.com
 
