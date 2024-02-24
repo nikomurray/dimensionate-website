@@ -1,3 +1,5 @@
+Website for DIMENSIONATE (100% RESPONSIVE)
+
 Live view: https://dimensionate.com
 
 
