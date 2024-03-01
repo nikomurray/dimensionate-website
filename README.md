@@ -1,4 +1,4 @@
-**Responsive website**
+**Responsive website for a 3D Animation Service in Argentina**
 
 Live view: https://dimensionate.com
 
