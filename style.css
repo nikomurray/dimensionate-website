@@ -528,27 +528,10 @@ footer .logo img {
     align-items: center;
 }
 
-.social-media {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
+.social-media p {
     font-size: 1.4rem;
 }
 
-.social-media div {
-    display: flex;
-    align-items: center;
-    gap: 2rem;
-}
-
-.social-media i {
-    cursor: pointer;
-    font-size: 1.4rem;
-}
-
-.social-media i:hover {
-    color: rgb(86, 141, 245);
-}
 
 .footer-2 {
     display: flex;
